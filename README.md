@@ -150,8 +150,37 @@ I am a **Computer Science and Business Systems (CSBS)** student at **Jain (Deeme
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karuneesh321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuneesh321&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karuneesh321&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karuneesh321/Karuneesh321/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+</p>
+
+🎯 Current Focus
+
+Strengthening Cloud Data Engineering fundamentals.
+
+Building hands-on AWS and Azure projects.
+
+Practicing SQL, Python, and PySpark.
+
+Learning scalable data pipeline architecture.
+
+Improving problem-solving and DSA skills.
+
+<p align="center">
+  <b>💡 Learning Today, Engineering Tomorrow.</b>
+  <br/>
+  Thanks for visiting my profile! ⭐
+</p>
