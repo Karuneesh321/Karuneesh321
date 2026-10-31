@@ -1,109 +1,115 @@
-# Hi, I'm Karunesh Pandey 👋
+# Hi there, I'm Karunesh Pandey! 👋
 
-### **Aspiring Cloud Data Engineer | AWS | Microsoft Azure | Python | SQL | PySpark**
+### ☁️ Aspiring Cloud Data Engineer | AWS | Microsoft Azure | Python | SQL | PySpark
 
-I am a Computer Science and Business Systems (CSBS) student at **Jain (Deemed-to-be) University, Bengaluru**, passionate about **Cloud Data Engineering, Big Data Processing, and Scalable Data Architectures**.
+I'm a Computer Science and Business Systems (CSBS) student at **Jain (Deemed-to-be) University, Bengaluru**, passionate about Cloud Computing, Data Engineering, Big Data Processing, and Scalable Data Architectures.
 
-I am building my skills in cloud technologies, data processing, and ETL pipelines, with a focus on transforming raw data into structured, analytics-ready datasets. I enjoy exploring cloud services, writing efficient code, and developing practical solutions to real-world problems.
+- ☁️ Exploring cloud computing with AWS and Microsoft Azure.
+- 🐍 Working with Python, Java, SQL, and PySpark.
+- 🔄 Learning to build ETL pipelines and data processing workflows.
+- 📊 Interested in Data Warehousing, Big Data, and Cloud Architecture.
+- 🚀 Building practical projects to strengthen my engineering skills.
 
-My technical interests include **Amazon Web Services (AWS), Microsoft Azure, Python, SQL, Apache Spark, PySpark, data lakes, and cloud-based ETL workflows**. My goal is to become a skilled Cloud Data Engineer and build reliable, scalable, and maintainable data solutions.
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Karuneesh321)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Karunesh01/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/karuneshp75)
+
+📍 Bengaluru, Karnataka, India
 
 ---
 
 ## 💻 Technical Skills
 
-- **Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure
-- **Programming Languages:** Python, Java
-- **Database Technologies:** MySQL, MongoDB, SQL
-- **Big Data & Processing:** Apache Spark, PySpark, DataFrames
-- **AWS Services:** Amazon S3, AWS Glue, AWS Glue Data Catalog, Amazon EC2, AWS IAM, Amazon RDS, Amazon Redshift, Amazon Athena, Amazon CloudWatch
-- **Azure Technologies:** Azure Data Lake Storage Gen2, Azure Blob Storage, Azure SQL, Azure Virtual Machines
-- **Data Engineering:** ETL/ELT Pipelines, Data Ingestion, Data Transformation, Data Cleaning, Schema Discovery
-- **Web Technologies:** HTML, CSS, JavaScript, React.js, Node.js
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code, AWS CLI, MongoDB Compass
-- **Deployment:** Vercel, Render
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Big Data & Data Engineering**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Databases & Development Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Featured Projects
+## ☁️ Cloud Technologies
 
-### 1. AWS Cloud & Data Engineering Pipeline
-
-Developing a cloud-based data processing workflow to ingest, transform, and store structured employee data.
-
-- Read source data from Amazon S3.
-- Use AWS Glue Crawlers to discover schemas and populate the Data Catalog.
-- Apply data transformations using AWS Glue and PySpark.
-- Store curated datasets in Apache Parquet format.
-- Explore SQL queries and data analysis using Amazon Athena.
-
-**Technologies:** AWS S3, AWS Glue, AWS Glue Data Catalog, PySpark, SQL, Apache Parquet
-
-### 2. SafeLink — Emergency Alert System
-
-A web application designed to support emergency alerts and connect users with volunteers.
-
-- Develop a React-based user interface.
-- Implement user, volunteer, and administrator roles.
-- Integrate map-based location functionality.
-- Work on backend integration and cloud deployment.
-
-**Technologies:** React.js, JavaScript, Node.js, Google Maps, Vercel, Render
-
-### 3. Disaster Image Detector
-
-An AI-powered web application designed to classify disaster-related images as real or fake.
-
-- Build an interface for uploading and analyzing images.
-- Integrate machine learning-based image classification.
-- Develop a user-friendly workflow for displaying predictions.
-- Explore deployment and application integration.
-
-**Technologies:** Python, Machine Learning, React.js, JavaScript
-
-### 4. Sport Analyzer Platform
-
-A machine learning project focused on analyzing sports-related data and exploring data-driven insights.
-
-- Process datasets for analysis.
-- Explore machine learning algorithms and model evaluation.
-- Develop a workflow for presenting analytical results.
-
-**Technologies:** Python, Machine Learning, Pandas, Data Analysis
+| AWS | Microsoft Azure |
+|---|---|
+| Amazon S3 | Azure Blob Storage |
+| AWS Glue | Azure Data Lake Storage Gen2 |
+| AWS Glue Data Catalog | Azure SQL |
+| Amazon EC2 | Azure Virtual Machines |
+| AWS IAM | Azure Entra ID |
+| Amazon RDS | Azure Resource Groups |
+| Amazon Redshift | |
+| Amazon Athena | |
+| AWS Lambda | |
+| Amazon CloudWatch | |
 
 ---
 
+## 🚀 Projects
 
-## 🎓 Education
+### Cloud & Data Engineering
 
-**Jain (Deemed-to-be) University, Bengaluru**
+- **AWS S3 Static Website Hosting** – Static website deployment using Amazon S3.
+- **AWS S3 Event-Driven Automation** – Event-based automation using AWS Lambda.
+- **AWS Glue ETL Pipeline** – Data extraction, transformation, and loading using PySpark and Amazon S3.
 
-Bachelor of Technology (B.Tech) in Computer Science and Business Systems (CSBS)
+### Other Development Projects
 
-- **Current Focus:** Cloud Computing, Data Engineering, Programming, and Database Technologies
-- **Expected Graduation:** 2027
-
----
-
-## 📚 Currently Learning
-
-- Building end-to-end ETL pipelines using AWS Glue and PySpark
-- Data lake architecture and the Bronze, Silver, and Gold layers
-- SQL optimization, joins, aggregations, and analytical queries
-- Data processing with Apache Spark
-- Cloud storage and analytics using AWS and Microsoft Azure
-- Data validation, error handling, and pipeline reliability
+- **SafeLink** – Emergency Alert System with user, volunteer, and admin functionality.
+- **Disaster Image Detector** – Machine learning application for detecting fake and real disaster images.
+- **Sport Analyzer** – Sports analytics using Python and Machine Learning.
+- **CSCQ** – Computer Science Core Quiz Application.
 
 ---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Karuneesh321&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karuneesh321&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-## 📫 Connect With Me
-
-- **GitHub:** [Your GitHub Profile](https://github.com/karuneesh321)
-- **LinkedIn:** https://www.linkedin.com/in/karunesh-pandey-912765283
-- **Email:** karuneshp75@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karuneesh321&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
 ---
 
-⭐ *Always learning, building, and exploring new possibilities in Cloud Computing and Data Engineering.*
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karuneesh321/Karuneesh321/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Learning Today, Engineering Tomorrow.</b>
+  <br/>
+  Thanks for visiting my profile! ⭐
+</p>
